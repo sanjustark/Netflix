@@ -1,2 +1,2 @@
 # Netflix
-Building netflix gpt with react 
+Building netflix gpt with react edited
